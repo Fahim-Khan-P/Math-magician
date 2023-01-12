@@ -46,8 +46,17 @@
   padding: 4px;
 }
 
+button:hover {
+  background-color: rgb(177, 174, 174);
+  transition: 0.25s ease-in;
+}
+
 .operator {
   background-color: rgb(242, 136, 31);
+}
+
+.operator:focus {
+  background-color: rgb(176, 70, 4);
 }
 
 .zeroBtn {
