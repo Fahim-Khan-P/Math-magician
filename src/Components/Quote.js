@@ -3,7 +3,6 @@ import '../App.css';
 
 const Quote = () => (
   <div className="qouteInformation">
-    <h2>This is the Quote page of our App!</h2>
     <p className="qoute">
       Lorem ipsum dolor sit amet,
       consectetur adipiscing elit,

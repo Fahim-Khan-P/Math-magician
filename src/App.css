@@ -5,12 +5,14 @@
 }
 
 .calculator {
-  margin: 18vh auto;
   display: grid;
   grid-template-rows: auto auto;
   grid-auto-rows: 80px;
   background-color: rgb(221, 221, 221);
-  width: 50%;
+  width: 60%;
+  border: 2px solid black;
+  padding: 4%;
+  border-radius: 2%;
 }
 
 .displaySection {
@@ -67,12 +69,21 @@ button:hover {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 10px 10px 60px 20px;
+  margin: 10px 10px 36px 20px;
 }
 
-.caculatorInfo,
+.caculatorInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  padding: 40px;
+}
+
 .qouteInformation {
-  padding: 24px;
+  padding: 40px;
+  margin-top: 25vh;
+  font-weight: bolder;
+  font-size: 1.4em;
 }
 
 .link {
@@ -89,7 +100,8 @@ button:hover {
 }
 
 .math-title {
-  font-size: 30px;
+  font-size: 44px;
+  font-weight: 600;
 }
 
 .tags {
@@ -104,4 +116,10 @@ button:hover {
   text-align: center;
   margin-top: 200px;
   font-size: 20px;
+}
+
+.claculatorView {
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
 }
