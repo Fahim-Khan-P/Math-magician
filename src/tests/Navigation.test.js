@@ -1,0 +1,13 @@
+import React from 'react';
+import renderer from 'react-test-renderer';
+import { BrowserRouter } from 'react-router-dom';
+import Navigation from '../Components/Navigation';
+
+test('navigation component should render correctly', () => {
+  const tree = renderer.create(
+    <BrowserRouter>
+      <Navigation />
+    </BrowserRouter>,
+  ).toJSON();
+  expect(tree).toMatchSnapshot();
+});
