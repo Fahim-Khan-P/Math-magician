@@ -1,4 +1,4 @@
-import calculate from '../logic/calculate';
+import calculate from '../Logic/calculate';
 
 describe('Tests for calculate.js', () => {
   test('AC should reset everything', () => {
