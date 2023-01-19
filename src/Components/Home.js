@@ -3,7 +3,7 @@ import '../App.css';
 
 const Home = () => (
   <div className="caculatorInfo">
-    <h2>Welcome to our Simple Calculator Home page</h2>
+    <h2>Welcome to our Simple Calculator Home page learn react</h2>
     <p>
       A calculator is a device that performs arithmetic operations on numbers.
       Basic calculators can do only addition, subtraction, multiplication and
@@ -11,18 +11,18 @@ const Home = () => (
       However, more sophisticated calculators can handle exponential operations,
       square roots, logarithms, trigonometric functions and hyperbolic functions. Internally,
       some calculators perform all these functions by repeated addition processes.
-      This means that you can use these calculators to perform arithmetic operations on
-      numbers.
       <br />
+
+      OR
+
       <br />
-      A calculator is a device that performs arithmetic operations on numbers.
-      Basic calculators can do only addition, subtraction, multiplication and
-      division mathematical calculations.
-      However, more sophisticated calculators can handle exponential operations,
-      square roots, logarithms, trigonometric functions and hyperbolic functions. Internally,
-      some calculators perform all these functions by repeated addition processes.
-      This means that you can use these calculators to perform arithmetic operations on
-      numbers.
+
+      A calculator is a machine which allows people to do math operations more easily.
+      For example, most calculators will add, subtract, multiply, and divide. There are
+      simple basic calculators,
+      scientific calculators & special purpose calculators (financial calculators etc.).
+      Some also do square roots, and more complex calculators can help with calculus and
+      draw function graphs.
     </p>
   </div>
 );
