@@ -160,3 +160,5 @@ exports[`calcul is available 1`] = `
   </div>
 </div>
 `;
+
+exports[`calcul is available 2`] = `Promise {}`;
