@@ -54,9 +54,21 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](#live-demo) project is not deploy right now...
+> This Project is not dyployed yet.
+
+- [Live Demo Link](<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> This Project is not dyployed yet.
+
+- [Live Demo Link](https://app.netlify.com/sites/jazzy-basbousa-47c0ce/deploys/63c95448a2b8ae0008f56a7f)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
